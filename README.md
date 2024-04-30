@@ -1,5 +1,25 @@
-
+<div align="center">
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E8F7&random=false&width=435&lines=OII+%F0%9F%91%8B%2C++Me+chamo+Agatha+Moreira!;Vem+ver+o+meu+perfil!+%F0%9F%91%80" alt="Typing SVG" /></a>
+
+</div>
+
+<div align="center">
+  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tathamjf&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/laurelzxy)
+ <h3 align ="center"> <strong> Sobre Mim </strong> </h3> 
+ 
+</div>
+
+
+
+ 
+<div align="center">
+<p align="">Atualmente estudo Programação de Jogos no senai de São Caetano do Sul.</p>
+<p align=""></p>
+<p align="">Adoro programação e venho estudando essa área a 2 anos 💫
+  <br>Tecnologia é uma paixão minha, estou sempre em busca de novos aprendizados! 💪👻</p>
+
 
 <div align="center">
   <a href="https://github.com/Tathamjf">
