@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tathamjf&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/laurelzxy)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tathamjf&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Tathamjf)
  <h3 align ="center"> <strong> Sobre Mim </strong> </h3> 
  
 </div>
