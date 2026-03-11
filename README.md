@@ -7,39 +7,79 @@
 <div align="center">
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tathamjf&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Tathamjf)
- <h3 align ="center"> <strong> Sobre Mim </strong> </h3> 
- 
-</div>
+ <h3 align ="center"> 
+   
+<p align="center">
+🎨 Designer | 💻 Developer | 🎮 Game Designer
+</p>
+
+<p align="center">
+I love creating interactive experiences, mixing design, code and creativity.
+</p>
 
 
+---
 
- 
-<div align="center">
-<p align="">Atualmente estudo Programação de Jogos no senai de São Caetano do Sul.</p>
-<p align=""></p>
-<p align="">Adoro programação e venho estudando essa área a 2 anos 💫
-  <br>Tecnologia é uma paixão minha, estou sempre em busca de novos aprendizados! 💪👻</p>
+## 🚀 About Me
+
+🧠 Creative mind focused on design and technology  
+🎮 Learning game development  
+🌐 Building interactive digital experiences  
+📍 Currently in Brazil  
+
+I enjoy turning **ideas into visual and interactive experiences**, whether through web projects, design systems or small games.
+
+---
+
+## 🛠️ Tech & Tools
+
+💻 Development
+- HTML
+- CSS
+- JavaScript
+- Git / GitHub
+- Linux / Windows
+- AWS (learning)
+
+🎨 Design
+- Figma
+- UI / UX
+- Visual Design
+- Digital Illustration
+
+🎮 Game Dev
+- Game Design
+- Pixel Art
+- Game Concepts
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎯 Current Goals
+
+- 📚 Improve backend and fullstack skills  
+- 🎮 Develop indie games  
+- 🎨 Build a strong design portfolio  
+- 🌍 Work internationally
+
+---
+
+## 🌎 Connect with me
+
+📧 Email: marcoosppedro@gmail.com  
+💼 LinkedIn: (add your linkedin)  
+🎨 Portfolio: (add your portfolio)
+
+---
+
+⭐ *"Design is not just what it looks like — it's how it works."*
 
 
-<div align="center">
-  <a href="https://github.com/Tathamjf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tathamjf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tathamjf&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-   <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-<br>
-
-  <div> 
-  <a href="https://instagram.com/tatah_mjf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="https://www.linkedin.com/in/agatha-moreira-154278285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
 
 
 ![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
