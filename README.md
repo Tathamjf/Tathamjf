@@ -56,7 +56,7 @@ I enjoy turning **ideas into visual and interactive experiences**, whether throu
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?Tathamjf=Tathamjf&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tathamjf&show_icons=true&theme=tokyonight)
 
 ---
 
