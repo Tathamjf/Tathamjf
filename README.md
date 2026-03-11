@@ -20,66 +20,60 @@ I love creating interactive experiences, mixing design, code and creativity.
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me & Tools
 
-🧠 Creative mind focused on design and technology  
-🎮 Learning game development  
-🌐 Building interactive digital experiences  
-📍 Currently in Brazil  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy turning **ideas into visual and interactive experiences**, whether through web projects, design systems or small games.
+### 👨‍💻 About Me
 
----
+✨ Creative developer passionate about design and technology  
+🎨 Interested in **UI/UX, visual design and digital experiences**  
+🎮 Exploring **game design and interactive worlds**  
+🌐 I enjoy turning ideas into **creative digital projects**  
 
-## 🛠️ Tech & Tools
+📍 Currently based in **Brazil**
 
-💻 Development
+💡 Always learning new tools, improving my skills and building projects.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Tech & Tools
+
+💻 **Development**
 - HTML
 - CSS
 - JavaScript
-- Git / GitHub
+- Git & GitHub
 - Linux / Windows
 - AWS (learning)
 
-🎨 Design
+🎨 **Design**
 - Figma
-- UI / UX
+- UI / UX Design
 - Visual Design
 - Digital Illustration
 
-🎮 Game Dev
+🎮 **Game Dev**
 - Game Design
 - Pixel Art
 - Game Concepts
 
----
+</td>
+</tr>
+</table>
+
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tathamjf&show_icons=true&theme=tokyonight)
 
 <div align="center">
   <a href="https://github.com/Tathamjf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tathamjf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tathamjf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
----
-
-## 🎯 Current Goals
-
-- 📚 Improve backend and fullstack skills  
-- 🎮 Develop indie games  
-- 🎨 Build a strong design portfolio  
-- 🌍 Work internationally
-
----
-
-## 🌎 Connect with me
-
-📧 Email: marcoosppedro@gmail.com  
-💼 LinkedIn: (add your linkedin)  
-🎨 Portfolio: (add your portfolio)
-
 ---
 
 ⭐ *"Design is not just what it looks like — it's how it works."*
